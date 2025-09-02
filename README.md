@@ -28,8 +28,6 @@ It demonstrates **Object-Oriented Programming (OOP)** principles and emphasizes 
 
 ---
 
----
-
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
