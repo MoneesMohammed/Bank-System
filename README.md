@@ -31,7 +31,7 @@ It demonstrates **Object-Oriented Programming (OOP)** principles and emphasizes 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/Bank-System.git
+   git clone https://github.com/MoneesMohammed/Bank-System.git
 UserName : User1 
 
 Password : 1234
